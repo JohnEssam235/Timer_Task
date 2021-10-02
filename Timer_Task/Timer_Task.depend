@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1633101044 source:c:\users\jojoe\onedrive\desktop\timer_task\timer_task\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STMR.h"
+
+1633175082 c:\users\jojoe\onedrive\desktop\timer_task\timer_task\stmr.h
+	"STMR_Cfg.h"
+
+1633175252 c:\users\jojoe\onedrive\desktop\timer_task\timer_task\stmr_cfg.h
+
+1633174564 source:c:\users\jojoe\onedrive\desktop\timer_task\timer_task\stmr.c
+	<stdio.h>
+	<stdlib.h>
+	"STMR.h"
+
+1633173832 source:c:\users\jojoe\onedrive\desktop\timer_task\timer_task\stmr_cfg.c
+	"STMR.h"
+
